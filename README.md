@@ -5,11 +5,6 @@ A proof of concept for the core of Modern Data Platform using DataOps, Kubernete
 to build a resilient Big Data platform based on Data Lakehouse architecture which is the base for
 Machine Learning (MLOps) and Artificial Intelligence (AIOps).
 
-> **Note**
->
-> This project is part of my Master of Science in Data Engineering
-> at Edinburgh Napier University (April 2023).
-
 <!-- omit in toc -->
 ## Contents
 - [Architecture](#architecture)
